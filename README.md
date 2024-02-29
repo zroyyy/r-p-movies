@@ -6,3 +6,4 @@ Este projeto foi feito com base no design do site de streamings de filmes Netfli
 
 Nós utilizamos Vite + React, TailwindCSS e FireBase (plataforma da Google que oferece Banco de Dados e Autenticação de usuários)
 
+Para acessar o projeto clique aqui: https://r-p-movies.vercel.app/
