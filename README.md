@@ -1,8 +1,8 @@
-# React + Vite
+# RP Movies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto feito por Roberto e Patrick
 
-Currently, two official plugins are available:
+Este projeto foi feito com base no design do site de streamings de filmes Netflix
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Nós utilizamos Vite + React e TailwindCSS
+
